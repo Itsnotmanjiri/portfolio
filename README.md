@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+Hey there, I’m Manjiri Mahajan
 
-You can use the [editor on GitHub](https://github.com/vishwakarmaanuj/anuj_007.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+“Turning ideas into impact, one project at a time.”
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I’m a final-year Information Technology student and an aspiring AI & ML engineer with a passion for cutting-edge tech, blockchain, and intelligent solutions. I create projects that don’t just exist—they solve real problems.
 
-### Markdown
+🔥 About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+💻 Tech Enthusiast: AI, Machine Learning, Blockchain, NLP
 
-```markdown
-Syntax highlighted code block
+📊 Data Geek: Skilled in Python, Java, SQL, Data Analysis
 
-# Header 1
-## Header 2
-### Header 3
+🚀 Project Creator: I love building innovative applications that help people and industries
 
-- Bulleted
-- List
+🌌 Explorer at Heart: Space, black holes, and parallel universes fascinate me
 
-1. Numbered
-2. List
+🌱 Passionate Learner: Always upskilling and embracing challenges
 
-**Bold** and _Italic_ and `Code` text
+🚀 My Projects
+1️⃣ Fertility Mood Analyzer (NLP Chatbot)
 
-[Link](url) and ![Image](src)
-```
+A smart chatbot for analyzing fertility-related queries.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Features:
 
-### Jekyll Themes
+Voice input support
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vishwakarmaanuj/anuj_007.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Personalized tips & suggestions
 
-### Support or Contact
+Mood tracking & history
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Graphs and calendar for trend visualization
+
+Tech used: Python, NLP libraries, Flask
+
+2️⃣ Smart Wallet with RFID & GPS
+
+A secure wallet with RFID blocking and real-time GPS tracking.
+
+Helps prevent theft and ensures safety of your valuables.
+
+Tech used: IoT, Python, GPS modules
+
+3️⃣ Machine Learning Projects
+
+Implemented Linear Regression, K-means Clustering, Hierarchical Clustering.
+
+Focused on real-world datasets for predictions and clustering tasks.
+
+Tech used: Python, Pandas, Matplotlib, Scikit-Learn
+
+4️⃣ Blockchain Application / Poster
+
+Designed a blockchain-based application for academic presentation.
+
+Showcased secure, transparent, and decentralized solutions.
+
+Tech used: Blockchain basics, Poster Design
